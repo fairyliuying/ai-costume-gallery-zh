@@ -163,4 +163,3 @@ footer{color:var(--tx3);font-size:12px;text-align:center;padding:8px 16px 44px;l
 @media (prefers-reduced-motion:reduce){*{transition:none!important}}
 
 .cta,.cta-s,.btn-oc,.chip-by{display:none!important}
-.license-note{color:var(--tx3);font-size:12px;max-width:780px;line-height:1.7;margin:12px 0 0}
